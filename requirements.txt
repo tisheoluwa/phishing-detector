@@ -1,0 +1,6 @@
+streamlit
+scikit-learn
+pandas
+altair
+joblib
+python-dotenv
